@@ -1,0 +1,17 @@
+# Local working files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Private source exports
+/private/
+/raw-private/
+
+# Design app caches
+.figma/
+
+# Dependency folders, if experiments are added later
+node_modules/
+dist/
+build/

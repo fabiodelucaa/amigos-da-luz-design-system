@@ -1,0 +1,28 @@
+{
+  "color": {
+    "gold": {
+      "value": "#A37F33",
+      "role": "Primary signature color for stage-light accents, premium highlights, headings and key details"
+    },
+    "graphite": {
+      "value": "#202020",
+      "role": "Main dark background and theatrical base"
+    },
+    "graphiteLight": {
+      "value": "#2C2C2C",
+      "role": "Secondary dark surface for cards, panels and layered depth"
+    },
+    "terracotta": {
+      "value": "#A34733",
+      "role": "Warm accent for emotional emphasis and secondary calls to action"
+    },
+    "offWhite": {
+      "value": "#F3F3F3",
+      "role": "Light background, text on dark surfaces and print-friendly breathing space"
+    },
+    "gray": {
+      "value": "#909090",
+      "role": "Secondary text, metadata, dividers and quiet interface states"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+:root {
+  /* Colors */
+  --adl-gold: #A37F33;
+  --adl-graphite: #202020;
+  --adl-graphite-light: #2C2C2C;
+  --adl-terracotta: #A34733;
+  --adl-off-white: #F3F3F3;
+  --adl-gray: #909090;
+
+  /* Semantic colors */
+  --adl-color-background-dark: var(--adl-graphite);
+  --adl-color-surface-dark: var(--adl-graphite-light);
+  --adl-color-background-light: var(--adl-off-white);
+  --adl-color-text-on-dark: var(--adl-off-white);
+  --adl-color-text-on-light: var(--adl-graphite);
+  --adl-color-muted: var(--adl-gray);
+  --adl-color-accent: var(--adl-gold);
+  --adl-color-warm-accent: var(--adl-terracotta);
+
+  /* Typography */
+  --adl-font-display: "Mokoko", Georgia, serif;
+  --adl-font-body: "Roboto", Arial, Helvetica, sans-serif;
+
+  --adl-font-size-hero: clamp(3rem, 7vw, 7rem);
+  --adl-font-size-h1: clamp(2.25rem, 5vw, 4.5rem);
+  --adl-font-size-h2: clamp(1.75rem, 3vw, 3rem);
+  --adl-font-size-h3: 1.5rem;
+  --adl-font-size-body-large: 1.25rem;
+  --adl-font-size-body: 1rem;
+  --adl-font-size-small: 0.875rem;
+
+  --adl-line-height-display: 1.05;
+  --adl-line-height-heading: 1.15;
+  --adl-line-height-body: 1.6;
+  --adl-line-height-compact: 1.35;
+
+  /* Spacing */
+  --adl-space-xs: 0.25rem;
+  --adl-space-sm: 0.5rem;
+  --adl-space-md: 1rem;
+  --adl-space-lg: 1.5rem;
+  --adl-space-xl: 2rem;
+  --adl-space-2xl: 3rem;
+  --adl-space-3xl: 4rem;
+  --adl-space-4xl: 6rem;
+
+  /* Radius */
+  --adl-radius-sm: 0.375rem;
+  --adl-radius-md: 0.75rem;
+  --adl-radius-lg: 1.25rem;
+  --adl-radius-pill: 999px;
+
+  /* Layout */
+  --adl-max-content-width: 72rem;
+  --adl-max-text-width: 42rem;
+}
+
+.adl-theme-dark {
+  color: var(--adl-color-text-on-dark);
+  background: var(--adl-color-background-dark);
+}
+
+.adl-theme-light {
+  color: var(--adl-color-text-on-light);
+  background: var(--adl-color-background-light);
+}
+
+.adl-display {
+  font-family: var(--adl-font-display);
+  line-height: var(--adl-line-height-display);
+  letter-spacing: -0.02em;
+}
+
+.adl-body {
+  font-family: var(--adl-font-body);
+  line-height: var(--adl-line-height-body);
+}
