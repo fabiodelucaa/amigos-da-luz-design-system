@@ -2,27 +2,27 @@
   "color": {
     "gold": {
       "value": "#A37F33",
-      "role": "Primary signature color for stage-light accents, premium highlights, headings and key details"
+      "role": "Cor primária de assinatura para acentos de luz de palco, destaques premium, títulos e detalhes-chave"
     },
     "graphite": {
       "value": "#202020",
-      "role": "Main dark background and theatrical base"
+      "role": "Fundo escuro principal e base teatral da marca"
     },
     "graphiteLight": {
       "value": "#2C2C2C",
-      "role": "Secondary dark surface for cards, panels and layered depth"
+      "role": "Superfície escura secundária para cards, painéis e profundidade em camadas"
     },
     "terracotta": {
       "value": "#A34733",
-      "role": "Warm accent for emotional emphasis and secondary calls to action"
+      "role": "Acento quente para ênfase humana, emocional e chamadas secundárias"
     },
     "offWhite": {
       "value": "#F3F3F3",
-      "role": "Light background, text on dark surfaces and print-friendly breathing space"
+      "role": "Fundo claro, texto sobre superfícies escuras e respiro para materiais impressos"
     },
     "gray": {
       "value": "#909090",
-      "role": "Secondary text, metadata, dividers and quiet interface states"
+      "role": "Texto secundário, metadados, divisores e estados discretos de interface"
     }
   }
 }

@@ -1,26 +1,26 @@
-# Audience
+# Público
 
-## Primary audience
+## Público principal
 
-The core audience includes urban Brazilian women aged 50+, mainly middle class, Spiritists or sympathetic to spiritual themes. They tend to be loyal, community-oriented, and highly receptive to light, humorous, reflective spiritual content.
+O público central inclui mulheres brasileiras urbanas 50+, majoritariamente de classe média, espíritas ou simpáticas a temas espirituais. É um público fiel, comunitário e receptivo a conteúdo espiritual leve, humorado e reflexivo.
 
-## Consumption behavior
+## Comportamento de consumo
 
-- Strong engagement with YouTube and social platforms.
-- Preference for short, clear, mobile-friendly content.
-- Appreciation for humor when it is respectful and meaningful.
-- Live events matter because they create encounter, community, and belonging.
+- Forte engajamento com YouTube e redes sociais.
+- Preferência por conteúdo curto, claro e mobile-friendly.
+- Valorização do humor quando ele é respeitoso e significativo.
+- Eventos presenciais importam porque criam encontro, comunidade e pertencimento.
 
-## Secondary audiences
+## Públicos secundários
 
-- Curious younger adults interested in spirituality, culture, or comedy.
-- Researchers and people interested in Spiritist art/culture.
-- Communities reached through cultural and institutional partnerships.
+- Adultos mais jovens curiosos por espiritualidade, cultura ou comédia.
+- Pesquisadores e interessados em arte/cultura espírita.
+- Comunidades alcançadas por parcerias culturais e institucionais.
 
-## Design implications
+## Implicações de design
 
-- Prioritize readability and contrast.
-- Keep mobile layouts clear.
-- Avoid overly youthful influencer aesthetics.
-- Balance contemporary design with warmth and familiarity.
-- Make practical details easy to find.
+- Priorizar legibilidade e contraste.
+- Manter layouts mobile claros.
+- Evitar estética jovem/influencer demais.
+- Equilibrar contemporaneidade com acolhimento e familiaridade.
+- Deixar informações práticas fáceis de encontrar.

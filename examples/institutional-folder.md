@@ -1,30 +1,30 @@
-# Institutional Folder Example Brief
+# Brief de folder institucional
 
-## Goal
+## Objetivo
 
-Create a folder or proposal for cultural partners, Spiritist centers, and institutions.
+Criar folder ou proposta para parceiros culturais, casas espíritas e instituições.
 
-## Positioning
+## Posicionamento
 
-The cover should be institutional and cultural, not commercial. Details like ticket repasse, partner mechanics, and operational terms belong inside the document with clear but discreet hierarchy.
+A capa deve ser institucional e cultural, não comercial. Detalhes como repasse por ingresso, mecânicas de parceria e termos operacionais pertencem ao interior do documento, com hierarquia clara e discreta.
 
-## Recommended structure
+## Estrutura recomendada
 
-1. Cover: cultural invitation and brand presence.
-2. Who we are: theater, humor, Spiritist reflection.
-3. Why partner: community, dissemination, network, audience mobilization.
-4. How it works: practical steps and responsibilities.
-5. Repasse or commercial terms, if needed, in simple transparent language.
-6. Contact and next step.
+1. Capa: convite cultural e presença de marca.
+2. Quem somos: teatro, humor e reflexão espírita.
+3. Por que ser parceiro: comunidade, divulgação, rede e mobilização de público.
+4. Como funciona: passos práticos e responsabilidades.
+5. Repasse ou termos comerciais, se necessário, em linguagem simples e transparente.
+6. Contato e próximo passo.
 
-## Visual direction
+## Direção visual
 
-- Off-white or Graphite background depending on print needs.
-- Gold accents.
-- Editorial layout.
-- Clear sections and readable body text.
-- Minimal decorative symbolism.
+- Fundo Off-white ou Graphite conforme necessidade de impressão.
+- Acentos Gold.
+- Layout editorial.
+- Seções claras e corpo de texto legível.
+- Pouca simbologia decorativa.
 
-## Tone
+## Tom
 
-Respectful, warm, and practical. The partner should feel invited into a cultural action, not recruited as a sales channel.
+Respeitoso, caloroso e prático. O parceiro deve se sentir convidado para uma ação cultural, não recrutado como canal de vendas.

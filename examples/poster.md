@@ -1,28 +1,28 @@
-# Poster Example Brief
+# Brief de cartaz
 
-## Goal
+## Objetivo
 
-Create a theatrical poster for an Amigos da Luz show or cultural event.
+Criar um cartaz teatral para espetáculo ou evento cultural da Amigos da Luz.
 
-## Hierarchy
+## Hierarquia
 
-1. Show/event title.
-2. Short tagline or cultural promise.
-3. Date, time, venue.
-4. Ticket/contact details.
-5. Logos/partners.
+1. Título do espetáculo/evento.
+2. Tagline curta ou promessa cultural.
+3. Data, horário e local.
+4. Informações de ingresso ou contato.
+5. Logos e parceiros.
 
-## Visual direction
+## Direção visual
 
-- Strong theatrical composition.
-- Dramatic contrast.
-- Gold highlights used like stage light.
-- Mokoko title, Roboto details.
-- Human expression or stage atmosphere when imagery is used.
+- Composição teatral forte.
+- Contraste dramático.
+- Destaques dourados usados como luz de palco.
+- Título em Mokoko, detalhes em Roboto.
+- Expressão humana ou atmosfera de palco quando houver imagem.
 
-## Avoid
+## Evitar
 
-- too many decorative elements;
-- religious clip art;
-- unreadable small details;
-- commercial layout that looks like a sale flyer.
+- elementos decorativos demais;
+- clip art religioso;
+- detalhes pequenos ilegíveis;
+- layout comercial com cara de panfleto promocional.

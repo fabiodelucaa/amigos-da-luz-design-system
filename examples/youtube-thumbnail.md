@@ -1,25 +1,25 @@
-# YouTube Thumbnail Example Brief
+# Brief de thumbnail YouTube
 
-## Goal
+## Objetivo
 
-Create clear, expressive thumbnails for Amigos da Luz videos.
+Criar thumbnails claras e expressivas para vídeos da Amigos da Luz.
 
-## Visual priorities
+## Prioridades visuais
 
-1. Face or expressive human moment.
-2. One short hook.
-3. Strong contrast.
-4. Brand accent in Gold.
-5. Readable text on mobile.
+1. Rosto ou momento humano expressivo.
+2. Um gancho curto.
+3. Contraste forte.
+4. Acento de marca em Gold.
+5. Texto legível no celular.
 
-## Style
+## Estilo
 
-Thumbnails can be more dynamic than institutional materials, but should still feel warm and culturally aligned. Comedy can be expressive; avoid sensationalism.
+Thumbnails podem ser mais dinâmicas que materiais institucionais, mas ainda devem parecer calorosas e alinhadas à marca. A comédia pode ser expressiva; evitar sensacionalismo.
 
-## Avoid
+## Evitar
 
-- tiny text;
-- cluttered compositions;
-- generic spiritual imagery;
-- exaggerated clickbait faces that feel disconnected from the group;
-- too many colors outside the palette.
+- texto pequeno;
+- composição poluída;
+- imagem espiritual genérica;
+- expressões clickbait exageradas e desconectadas do grupo;
+- cores demais fora da paleta.

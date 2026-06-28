@@ -1,18 +1,18 @@
-# Buttons
+# Botões
 
-Buttons should be clear, theatrical, and restrained. They should guide action without making the brand feel like retail marketing.
+Botões devem ser claros, teatrais e contidos. Eles orientam a ação sem fazer a marca parecer varejo.
 
-## Primary button
+## Botão primário
 
-Use for the main action on a page or card.
+Usar para a principal ação de uma página ou card.
 
-- Background: Gold `#A37F33`
-- Text: Graphite `#202020` or Off-white `#F3F3F3`, depending on contrast and size
-- Font: Roboto, medium or bold
-- Shape: pill or softly rounded rectangle
-- Tone: confident, not loud
+- Fundo: Gold `#A37F33`
+- Texto: Graphite `#202020` ou Off-white `#F3F3F3`, conforme contraste e tamanho
+- Fonte: Roboto, medium ou bold
+- Forma: pílula ou retângulo suavemente arredondado
+- Tom: confiante, não gritante
 
-Recommended labels:
+Rótulos recomendados:
 
 - `Ver espetáculo`
 - `Conhecer a peça`
@@ -20,23 +20,23 @@ Recommended labels:
 - `Falar com a produção`
 - `Quero ser parceiro`
 
-Avoid:
+Evitar:
 
 - `Compre agora!!!`
 - `Última chance`
 - `Oferta imperdível`
 
-## Secondary button
+## Botão secundário
 
-Use for supporting actions.
+Usar para ações de apoio.
 
-- Transparent or Graphite Light background
-- Gold border or Off-white border
-- Off-white text on dark backgrounds
+- Transparente ou fundo Graphite Light
+- Borda Gold ou Off-white
+- Texto Off-white em fundos escuros
 
-## Partner-facing CTAs
+## CTAs para parceiros
 
-For Spiritist centers and cultural partners, prefer invitation language:
+Para casas espíritas e parceiros culturais, preferir linguagem de convite:
 
 - `Conhecer a parceria`
 - `Conversar sobre a ação`

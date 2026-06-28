@@ -1,42 +1,42 @@
-# Typography
+# Tipografia
 
-## Display typography
+## Tipografia de display
 
-Use Mokoko for expressive, theatrical, editorial moments.
+Usar Mokoko para momentos expressivos, teatrais e editoriais.
 
-Good uses:
+Bons usos:
 
-- hero title;
-- show title;
-- campaign headline;
-- short emotional quote;
-- section title in printed material.
+- título hero;
+- nome de espetáculo;
+- chamada de campanha;
+- frase emocional curta;
+- título de seção em material impresso.
 
-Avoid using Mokoko for long paragraphs or practical details.
+Evitar Mokoko em parágrafos longos ou detalhes práticos.
 
-## Body typography
+## Tipografia de corpo
 
-Use Roboto for clarity and accessibility.
+Usar Roboto para clareza e acessibilidade.
 
-Good uses:
+Bons usos:
 
-- body text;
-- practical details;
-- dates and locations;
-- captions;
-- buttons;
-- forms;
-- social media supporting copy.
+- texto corrido;
+- detalhes práticos;
+- datas e locais;
+- legendas;
+- botões;
+- formulários;
+- texto de apoio em redes sociais.
 
-## Hierarchy pattern
+## Padrão de hierarquia
 
-A good Amigos da Luz composition often follows:
+Uma boa composição da Amigos da Luz costuma seguir:
 
-1. Mokoko title with theatrical presence.
-2. Short Roboto subtitle with the promise or emotional idea.
-3. Roboto practical details.
-4. Small Gold or Terracotta accent for rhythm.
+1. título em Mokoko com presença teatral;
+2. subtítulo curto em Roboto com promessa ou ideia emocional;
+3. detalhes práticos em Roboto;
+4. pequeno acento Gold ou Terracotta para ritmo.
 
-## Accessibility
+## Acessibilidade
 
-Because much of the core audience is 50+, avoid tiny text. Social media pieces must remain readable on mobile.
+Como parte importante do público central é 50+, evitar texto pequeno. Peças sociais precisam continuar legíveis no celular.

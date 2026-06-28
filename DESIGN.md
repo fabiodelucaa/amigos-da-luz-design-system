@@ -1,171 +1,171 @@
-# Amigos da Luz Design System
+# Design System Amigos da Luz
 
-## 1. Brand essence
+## 1. Essência da marca
 
-**Amigos da Luz** is a Brazilian artistic-cultural group that brings together theater, humor, and Spiritism. Its communication should make people feel invited into a theater, not sold to by a generic campaign and not preached at by a religious institution.
+**Amigos da Luz** é um grupo artístico-cultural brasileiro que une teatro, humor e Espiritismo. A comunicação deve fazer a pessoa sentir que está sendo convidada para uma experiência teatral, não abordada por uma campanha comercial genérica e nem evangelizada por uma instituição religiosa.
 
-The brand is built around:
+A marca se constrói a partir de:
 
-- theater as the main cultural language;
-- humor as a bridge to reflection;
-- Spiritist values expressed with lightness and care;
-- community, encounter, and belonging;
-- professional presentation without losing warmth.
+- teatro como linguagem cultural principal;
+- humor como ponte para reflexão;
+- valores espíritas expressos com leveza e cuidado;
+- encontro, comunidade e pertencimento;
+- apresentação profissional sem perder calor humano.
 
-### Desired feeling
+### Sensação desejada
 
-> A Spiritist theater group under stage light: contemporary, welcoming, witty, reflective, and beautifully crafted.
+> Um grupo de teatro espírita contemporâneo sob luz de palco: acolhedor, espirituoso, reflexivo, humano e bem-acabado.
 
-## 2. Design principles
+## 2. Princípios de design
 
-### 2.1 Theater first
+### 2.1 Teatro primeiro
 
-The visual world should start from stage, light, curtain, performance, audience, spotlight, backstage, and cultural programming references. Spiritist meaning should appear through tone, warmth, depth, and human presence, not through obvious religious clip art.
+O universo visual deve partir de palco, luz, cortina, cena, plateia, bastidor e programação cultural. O sentido espírita deve aparecer por tom, acolhimento, profundidade e presença humana, não por clip art religioso óbvio.
 
-### 2.2 Premium, not ostentatious
+### 2.2 Premium, não ostentoso
 
-Gold is a signature color, but it should feel like stage light and cultural prestige, not luxury branding or jewelry advertising.
+O dourado é assinatura da marca, mas deve parecer luz de palco e prestígio cultural, não marca de luxo, joalheria ou ostentação.
 
-### 2.3 Spiritual, not cliché
+### 2.3 Espiritual, não clichê
 
-Avoid generic mystical imagery, glowing hands, doves, clouds, praying silhouettes, cosmic portals, or overly literal religious symbolism. Spirituality should be handled as welcome, reflection, tenderness, humor, and ethical intention.
+Evitar imagens místicas genéricas, mãos brilhando, pombas, nuvens, silhuetas em oração, portais cósmicos ou símbolos religiosos literais demais. A espiritualidade deve aparecer como acolhimento, reflexão, ternura, humor e intenção ética.
 
-### 2.4 Warm, but clear
+### 2.4 Caloroso, mas claro
 
-The brand is affectionate and human, but layouts must remain legible, especially for older audiences. Prioritize contrast, readable sizes, generous spacing, and direct hierarchy.
+A marca é afetiva e humana, mas os layouts precisam continuar legíveis, especialmente para públicos mais maduros. Priorizar contraste, tamanhos confortáveis, espaçamento generoso e hierarquia direta.
 
-### 2.5 Cultural before commercial
+### 2.5 Cultural antes de comercial
 
-When communicating shows, partnerships, and tickets, the first layer is artistic-cultural value. Commercial terms should be clear, but never dominate the visual or verbal hierarchy.
+Ao comunicar espetáculos, parcerias e ingressos, a primeira camada é o valor artístico-cultural. Termos comerciais devem ser claros, mas nunca dominar a hierarquia visual ou verbal.
 
-## 3. Color system
+## 3. Sistema de cores
 
-### Core palette
+### Paleta principal
 
-| Token | Hex | Role |
+| Token | Hex | Função |
 | --- | --- | --- |
-| Gold | `#A37F33` | Primary signature color, stage-light accent, titles, highlights, premium details |
-| Graphite | `#202020` | Main dark background, theatrical base, high-contrast surfaces |
-| Graphite Light | `#2C2C2C` | Secondary dark surface, cards, panels, soft depth |
-| Terracotta | `#A34733` | Warm accent, human/emotional emphasis, sparing CTA variation |
-| Off-white | `#F3F3F3` | Light background, text on dark, breathing space |
-| Gray | `#909090` | Secondary text, metadata, subtle dividers, disabled states |
+| Gold | `#A37F33` | Cor de assinatura, acento de luz de palco, títulos, destaques e detalhes nobres |
+| Graphite | `#202020` | Fundo escuro principal, base teatral e superfícies de alto contraste |
+| Graphite Light | `#2C2C2C` | Superfície escura secundária para cards, painéis e camadas |
+| Terracotta | `#A34733` | Acento quente para humanidade, emoção e chamadas pontuais |
+| Off-white | `#F3F3F3` | Fundo claro, texto sobre escuro e áreas de respiro |
+| Gray | `#909090` | Texto secundário, metadados, divisores sutis e estados menos importantes |
 
-### Color usage
+### Uso das cores
 
-- Use `Graphite` as the primary immersive background for theatrical and premium pieces.
-- Use `Off-white` for accessible long-form reading, proposals, institutional documents, and printable materials.
-- Use `Gold` as the main brand signal, preferably in restrained highlights.
-- Use `Terracotta` to add warmth and humanity, not as the primary color.
-- Use `Gray` only for secondary information. Do not rely on it for small text over dark backgrounds unless contrast is verified.
+- Usar `Graphite` como fundo imersivo principal em peças teatrais e premium.
+- Usar `Off-white` para leitura longa, propostas, documentos institucionais e impressos.
+- Usar `Gold` como principal sinal de marca, preferencialmente em destaques contidos.
+- Usar `Terracotta` para trazer calor e humanidade, não como cor dominante.
+- Usar `Gray` apenas para informação secundária. Não depender dele para texto pequeno sobre fundo escuro sem checar contraste.
 
-### Recommended combinations
+### Combinações recomendadas
 
-- Graphite background + Off-white text + Gold highlights.
-- Off-white background + Graphite text + Gold section accents.
-- Graphite Light cards over Graphite background, with Gold borders or headings.
-- Terracotta only for small accent blocks, labels, emotional emphasis, or secondary CTAs.
+- Fundo Graphite + texto Off-white + destaques Gold.
+- Fundo Off-white + texto Graphite + acentos Gold.
+- Cards Graphite Light sobre fundo Graphite, com bordas ou títulos em Gold.
+- Terracotta apenas em pequenos blocos, etiquetas, frases emocionais ou CTAs secundários.
 
-## 4. Typography
+## 4. Tipografia
 
-### Primary display typeface
+### Fonte primária de display
 
 **Mokoko**
 
-Use for:
+Usar para:
 
-- hero titles;
-- show names;
-- institutional headings;
-- poster titles;
-- premium editorial moments;
-- large pull quotes.
+- títulos hero;
+- nomes de espetáculos;
+- chamadas institucionais;
+- títulos de cartaz;
+- momentos editoriais premium;
+- citações curtas de impacto.
 
-Fallback: Georgia or another elegant serif.
+Fallback: Georgia ou outra serifa elegante.
 
-### Secondary/body typeface
+### Fonte secundária e de corpo
 
 **Roboto**
 
-Use for:
+Usar para:
 
-- body text;
-- captions;
-- metadata;
-- buttons;
-- UI labels;
-- practical instructions;
-- forms and tables.
+- textos corridos;
+- legendas;
+- metadados;
+- botões;
+- rótulos de UI;
+- informações práticas;
+- formulários e tabelas.
 
 Fallback: Arial, Helvetica, sans-serif.
 
-### Typographic tone
+### Tom tipográfico
 
-- Titles can be dramatic and editorial.
-- Body copy must be practical and highly readable.
-- Avoid overusing all caps.
-- Avoid script fonts, novelty fonts, and mystical-looking display fonts.
-- Do not mix many typefaces. Mokoko + Roboto is the system.
+- Títulos podem ser dramáticos e editoriais.
+- Texto de corpo precisa ser prático e muito legível.
+- Evitar uso excessivo de caixa alta.
+- Evitar fontes manuscritas, novelty fonts e fontes com aparência mística.
+- Não misturar muitas famílias. O sistema é Mokoko + Roboto.
 
-## 5. Layout and composition
+## 5. Layout e composição
 
-### General layout
+### Layout geral
 
-- Prefer centered theatrical compositions for hero moments.
-- Use generous margins and spacing.
-- Let dark space work as atmosphere.
-- Use borders, subtle lines, and gold accents to create elegance.
-- Avoid clutter, sticker-like compositions, and excessive decorative elements.
+- Preferir composições centralizadas e teatrais em momentos hero.
+- Usar margens e respiro generosos.
+- Deixar o espaço escuro trabalhar como atmosfera.
+- Usar bordas, linhas sutis e acentos dourados para criar elegância.
+- Evitar poluição visual, composição com cara de adesivo e excesso decorativo.
 
-### Shape language
+### Linguagem de formas
 
-- Corners may be softly rounded, but not bubbly.
-- Lines should feel refined and editorial.
-- Cards should feel like program notes, theater tickets, stage panels, or cultural editorial blocks.
+- Cantos podem ser suavemente arredondados, mas não infantis.
+- Linhas devem parecer refinadas e editoriais.
+- Cards podem lembrar programa de teatro, ingresso, painel de palco ou bloco editorial cultural.
 
-### Imagery
+### Imagens
 
-Best image directions:
+Direções mais fortes:
 
-- stage light;
-- theater audience and seats;
-- backstage textures;
-- performers, expressions, and human connection;
-- warm spotlights and shadows;
-- cultural posters and program aesthetics.
+- luz de palco;
+- plateia e cadeiras de teatro;
+- texturas de bastidor;
+- artistas, expressões e conexão humana;
+- spots quentes e sombras;
+- estética de cartaz e programa cultural.
 
-Avoid:
+Evitar:
 
-- generic spiritual stock imagery;
-- cliché religious symbols;
-- artificial heavenly light;
-- low-quality mystical backgrounds;
-- corporate stock photos;
-- overly young/influencer aesthetics that alienate the core audience.
+- banco de imagem espiritual genérico;
+- símbolos religiosos clichês;
+- luz celestial artificial;
+- fundos místicos de baixa qualidade;
+- fotos corporativas genéricas;
+- estética jovem/influencer demais, que afaste o público central.
 
-## 6. Voice and copy
+## 6. Voz e texto
 
-The voice should be:
+A voz deve ser:
 
-- warm;
-- intelligent;
-- Brazilian;
-- welcoming;
-- culturally grounded;
-- lightly humorous when appropriate;
-- respectful of Spiritist audiences without sounding formal or old-fashioned.
+- calorosa;
+- inteligente;
+- brasileira;
+- acolhedora;
+- culturalmente situada;
+- levemente bem-humorada quando fizer sentido;
+- respeitosa com o público espírita sem soar formal ou antiga.
 
-### Copy hierarchy
+### Hierarquia de mensagem
 
-For institutional and partner-facing communication:
+Para comunicação institucional e com parceiros:
 
-1. artistic-cultural value;
-2. Spiritist reflection and dissemination with lightness;
-3. community, welcome, and encounter;
-4. practical details;
-5. commercial terms, when needed, with discretion.
+1. valor artístico-cultural;
+2. reflexão espírita e divulgação doutrinária com leveza;
+3. comunidade, acolhimento e encontro;
+4. detalhes práticos;
+5. termos comerciais, quando necessários, com discrição.
 
-### Prefer words like
+### Preferir expressões como
 
 - encontro;
 - acolhimento;
@@ -179,103 +179,103 @@ For institutional and partner-facing communication:
 - público;
 - experiência teatral.
 
-### Avoid sounding like
+### Evitar soar como
 
-- aggressive ticket sales;
-- generic motivational speech;
-- church/religious propaganda;
-- retail promotion;
-- charity campaign;
-- corporate SaaS marketing.
+- venda agressiva de ingressos;
+- discurso motivacional genérico;
+- propaganda religiosa;
+- promoção de varejo;
+- campanha assistencialista;
+- marketing corporativo de SaaS.
 
-## 7. Audience considerations
+## 7. Público
 
-The primary audience includes urban Brazilian women aged 50+, many Spiritists or sympathetic to spiritual topics, with strong engagement in light, short, mobile-friendly spiritual content. The design must be contemporary without sacrificing clarity and warmth.
+O público principal inclui mulheres brasileiras urbanas 50+, muitas espíritas ou simpáticas a temas espirituais, com forte engajamento em conteúdo espiritual leve, curto e mobile-friendly. O design precisa ser contemporâneo sem abrir mão de clareza, acolhimento e familiaridade.
 
-Secondary audiences include curious younger adults, researchers, cultural partners, and broader communities reached through live events and social media.
+Públicos secundários incluem adultos mais jovens curiosos, pesquisadores, parceiros culturais e comunidades alcançadas por eventos presenciais e redes sociais.
 
-Implications:
+Implicações:
 
-- use readable font sizes;
-- avoid low-contrast text;
-- make CTAs obvious but not aggressive;
-- make mobile social assets clear at small sizes;
-- balance contemporary design with emotional familiarity.
+- usar tamanhos de fonte confortáveis;
+- evitar baixo contraste;
+- tornar CTAs claros sem agressividade;
+- garantir que peças sociais sejam legíveis em telas pequenas;
+- equilibrar contemporaneidade com calor emocional.
 
-## 8. Application guidance
+## 8. Orientação por aplicação
 
-### Website and landing pages
+### Site e landing pages
 
-- Use dark theatrical hero sections.
-- Put the cultural proposition before ticket mechanics.
-- Use gold for key headings and small accents.
-- Keep practical information very clear: date, time, venue, tickets, accessibility, contact.
+- Usar seções hero escuras e teatrais.
+- Colocar a proposta cultural antes da mecânica de ingressos.
+- Usar dourado para títulos-chave e pequenos acentos.
+- Deixar informações práticas muito claras: data, horário, local, ingressos, acessibilidade e contato.
 
-### Instagram posts and carousels
+### Instagram e carrosséis
 
-- Start with the end benefit or emotional idea before details.
-- Use fewer words per slide.
-- Maintain strong contrast and safe margins.
-- Do not cover faces, mouths, or key action with text.
-- Use up to 5 hashtags when needed.
+- Começar pelo benefício final ou ideia emocional antes dos detalhes.
+- Usar menos texto por slide.
+- Manter contraste forte e margens seguras.
+- Não cobrir rostos, bocas ou ações importantes com texto.
+- Usar até 5 hashtags quando necessário.
 
-### YouTube thumbnails
+### Thumbnails de YouTube
 
-- Prioritize faces, expression, contrast, and one short hook.
-- Use gold accents sparingly.
-- Avoid tiny text.
-- Thumbnails may be more expressive, but should not become sensationalist.
+- Priorizar rosto, expressão, contraste e um gancho curto.
+- Usar dourado com moderação.
+- Evitar texto pequeno.
+- Thumbnails podem ser mais expressivas, mas não sensacionalistas.
 
-### Printed folders and proposals
+### Folders impressos e propostas
 
-- The cover should be cultural/institutional, not commercial.
-- Details such as ticket repasse or partner mechanics belong inside, with clear but discreet hierarchy.
-- Use off-white backgrounds for readability and print economy when needed.
+- A capa deve ser cultural/institucional, não comercial.
+- Detalhes como repasse por ingresso ou mecânica de parceria devem ficar nas páginas internas, com hierarquia clara e discreta.
+- Usar fundos off-white para leitura e economia de impressão quando necessário.
 
-### Partner materials for Spiritist centers
+### Materiais para casas espíritas
 
-- Treat centers as cultural and community partners, not sales affiliates.
-- Emphasize network, encounter, and dissemination before operational terms.
-- Commercial terms may be present, but they should be simple and transparent.
+- Tratar casas como parceiras culturais e comunitárias, não como afiliadas de venda.
+- Enfatizar rede, encontro e divulgação antes dos termos operacionais.
+- Termos comerciais podem aparecer, mas devem ser simples e transparentes.
 
-## 9. Do / Don’t
+## 9. Fazer / Não fazer
 
-### Do
+### Fazer
 
-- Use stage light and theatrical atmosphere.
-- Use dark backgrounds with elegant gold accents.
-- Keep text readable and emotionally warm.
-- Make hierarchy clear.
-- Create space for humor and reflection.
-- Make materials feel professional enough for theaters and cultural venues.
+- Usar luz de palco e atmosfera teatral.
+- Usar fundos escuros com acentos dourados elegantes.
+- Manter texto legível e caloroso.
+- Criar hierarquia clara.
+- Abrir espaço para humor e reflexão.
+- Fazer os materiais parecerem profissionais o suficiente para teatros e espaços culturais.
 
-### Don’t
+### Não fazer
 
-- Make the brand look like a church flyer.
-- Use spiritual clip art or generic mystical stock images.
-- Overuse gold until it feels fake luxury.
-- Use aggressive urgency or retail language.
-- Make layouts too dense for older audiences.
-- Create childish comedy visuals.
-- Treat Spiritism as decoration.
+- Fazer a marca parecer panfleto de igreja.
+- Usar clip art espiritual ou místico genérico.
+- Exagerar no dourado até parecer luxo falso.
+- Usar urgência agressiva ou linguagem de varejo.
+- Criar layouts densos demais para públicos mais maduros.
+- Infantilizar o humor.
+- Tratar o Espiritismo como decoração.
 
-## 10. MVP design-system scope
+## 10. Escopo MVP do design system
 
-This repository is currently a documentation and token source. It is not yet a production component library.
+Este repositório é, por enquanto, fonte de documentação e tokens. Ele ainda não é uma biblioteca de componentes de produção.
 
-Current scope:
+Escopo atual:
 
-- brand guidelines;
-- color and typography tokens;
-- component direction;
-- examples and briefs;
-- asset organization.
+- diretrizes de marca;
+- tokens de cor e tipografia;
+- orientação de componentes;
+- exemplos e briefs;
+- organização de ativos.
 
-Out of scope for now:
+Fora de escopo por enquanto:
 
 - Storybook;
-- npm package publishing;
-- React component implementation;
-- large build pipeline;
-- animation library;
-- complete social template pack.
+- publicação de pacote npm;
+- implementação de componentes React;
+- pipeline grande de build;
+- biblioteca de animação;
+- pacote completo de templates sociais.

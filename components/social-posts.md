@@ -1,35 +1,35 @@
-# Social Posts
+# Posts sociais
 
-## Instagram posts
+## Instagram
 
-Use a clean theatrical hierarchy. The first slide or card should communicate the end idea before explaining the means.
+Usar hierarquia teatral limpa. O primeiro card ou slide deve comunicar a ideia final antes de explicar os meios.
 
-Recommended pattern:
+Padrão recomendado:
 
-1. short title or emotional hook;
-2. one supporting sentence;
-3. visual focus: face, stage, expression, or strong typographic composition;
-4. practical detail only when needed.
+1. título ou gancho curto;
+2. uma frase de apoio;
+3. foco visual: rosto, palco, expressão ou composição tipográfica forte;
+4. detalhe prático apenas quando necessário.
 
-## Carousels
+## Carrosséis
 
-- Fewer words per slide.
-- Large, readable text.
-- Safe margins around all text.
-- Do not cover faces, mouths, gestures, or key action.
-- Keep visual continuity across slides.
-- Use up to 5 hashtags in captions when needed.
+- Menos texto por slide.
+- Texto grande e legível.
+- Margens seguras ao redor de todo texto.
+- Não cobrir rostos, bocas, gestos ou ações importantes.
+- Manter continuidade visual entre os slides.
+- Usar até 5 hashtags nas legendas quando necessário.
 
-## YouTube thumbnails
+## Thumbnails de YouTube
 
-- Prioritize face, expression, and contrast.
-- Use one short hook.
-- Avoid dense text.
-- Use Gold as a brand accent, not as a full-background gimmick.
-- Keep comedy expressive but not sensationalist.
+- Priorizar rosto, expressão e contraste.
+- Usar um gancho curto.
+- Evitar texto denso.
+- Usar Gold como acento de marca, não como truque de fundo inteiro.
+- Manter a comédia expressiva sem sensacionalismo.
 
-## Captions
+## Legendas
 
-Tone: warm, culturally grounded, direct, lightly humorous when appropriate.
+Tom: caloroso, culturalmente situado, direto e levemente bem-humorado quando fizer sentido.
 
-Avoid captions that sound like aggressive ticket selling or generic spirituality.
+Evitar legendas que soem como venda agressiva de ingresso ou espiritualidade genérica.

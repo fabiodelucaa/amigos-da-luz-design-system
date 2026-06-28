@@ -1,23 +1,23 @@
-# Voice
+# Voz
 
-## Brand voice
+## Voz da marca
 
-Amigos da Luz speaks with warmth, humor, cultural confidence, and spiritual care. The tone should feel Brazilian, human, intelligent, and accessible.
+A Amigos da Luz fala com calor, humor, confiança cultural e cuidado espiritual. O tom deve ser brasileiro, humano, inteligente e acessível.
 
-## Voice qualities
+## Qualidades da voz
 
-- welcoming;
-- reflective;
-- lightly humorous;
-- culturally grounded;
-- respectful without being stiff;
-- clear and practical when giving information.
+- acolhedora;
+- reflexiva;
+- levemente bem-humorada;
+- culturalmente situada;
+- respeitosa sem ser rígida;
+- clara e prática ao transmitir informações.
 
-## Institutional communication
+## Comunicação institucional
 
-When speaking to Spiritist centers, cultural partners, and institutions, lead with the artistic-cultural value of the work. Commercial or operational terms should be simple, transparent, and secondary.
+Ao falar com casas espíritas, parceiros culturais e instituições, comece pelo valor artístico-cultural do trabalho. Termos comerciais ou operacionais devem ser simples, transparentes e secundários.
 
-## Good phrases
+## Boas expressões
 
 - humor como ponte de reflexão;
 - ação artístico-cultural;
@@ -27,10 +27,10 @@ When speaking to Spiritist centers, cultural partners, and institutions, lead wi
 - fortalecimento de rede;
 - mobilização do público.
 
-## Avoid
+## Evitar
 
-- aggressive sales pressure;
-- generic motivational language;
-- overly formal religious tone;
-- corporate marketing jargon;
-- jokes that make the spiritual subject feel shallow.
+- pressão comercial agressiva;
+- linguagem motivacional genérica;
+- tom religioso formal demais;
+- jargão de marketing corporativo;
+- piadas que deixem o assunto espiritual raso.

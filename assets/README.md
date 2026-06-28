@@ -1,18 +1,18 @@
-# Assets
+# Ativos
 
-Use this folder for approved brand assets and visual references.
+Use esta pasta para ativos de marca aprovados e referências visuais.
 
-Suggested organization:
+Organização sugerida:
 
 ```text
 assets/
-├── logos/          # official logos in SVG/PNG/PDF when available
-├── references/     # approved reference images and visual inspiration
-└── examples/       # screenshots or exports of approved public materials
+├── logos/          # logos oficiais em SVG/PNG/PDF quando disponíveis
+├── references/     # referências visuais e inspirações aprovadas
+└── examples/       # capturas ou exports de materiais públicos aprovados
 ```
 
-## Safety notes
+## Cuidados
 
-- Do not commit private documents, internal contracts, private contact information, or unpublished sensitive materials.
-- Do not commit raw font files unless the license clearly permits redistribution.
-- Prefer public, already-approved examples such as published posters, Instagram posts, YouTube thumbnails, and institutional materials.
+- Não commitar documentos privados, contratos internos, dados pessoais, contatos ou materiais sensíveis ainda não publicados.
+- Não commitar arquivos brutos de fonte se a licença não permitir redistribuição.
+- Preferir exemplos públicos e já aprovados: cartazes publicados, posts do Instagram, thumbnails do YouTube e materiais institucionais.

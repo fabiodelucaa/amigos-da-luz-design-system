@@ -3,12 +3,12 @@
     "display": {
       "family": "Mokoko",
       "fallback": "Georgia, serif",
-      "usage": "Hero titles, show names, institutional headings, poster titles and premium editorial moments"
+      "usage": "Títulos hero, nomes de espetáculos, chamadas institucionais, títulos de cartaz e momentos editoriais premium"
     },
     "body": {
       "family": "Roboto",
       "fallback": "Arial, Helvetica, sans-serif",
-      "usage": "Body text, captions, metadata, buttons, UI labels, forms and practical information"
+      "usage": "Texto corrido, legendas, metadados, botões, rótulos de UI, formulários e informações práticas"
     }
   },
   "scale": {

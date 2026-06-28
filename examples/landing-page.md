@@ -1,31 +1,31 @@
-# Landing Page Example Brief
+# Brief de landing page
 
-## Goal
+## Objetivo
 
-Create a show or institutional landing page that feels like entering a theater under warm stage light.
+Criar uma landing page institucional ou de espetáculo que pareça a entrada em um teatro sob luz quente de palco.
 
-## Recommended structure
+## Estrutura recomendada
 
-1. Dark hero section with show/group title in Mokoko.
-2. Short cultural proposition: theater, humor, Spiritist reflection, welcome.
-3. Primary CTA for show/tickets/contact.
-4. Section about the experience.
-5. Practical information: date, time, venue, accessibility, contact.
-6. Social proof or audience quote.
-7. Partner/cultural invitation section if relevant.
+1. Hero escuro com título do grupo ou espetáculo em Mokoko.
+2. Proposta cultural curta: teatro, humor, reflexão espírita e acolhimento.
+3. CTA principal para espetáculo, ingresso ou contato.
+4. Seção sobre a experiência.
+5. Informações práticas: data, horário, local, acessibilidade e contato.
+6. Prova social ou frase de público.
+7. Seção de parceria/cultura quando relevante.
 
-## Visual direction
+## Direção visual
 
-- Graphite background.
-- Gold highlights.
-- Off-white text.
-- Large editorial title.
-- Warm spotlight or stage-inspired imagery.
-- Clear mobile hierarchy.
+- Fundo Graphite.
+- Destaques Gold.
+- Texto Off-white.
+- Título editorial grande.
+- Imagem ou atmosfera inspirada em palco e luz quente.
+- Hierarquia mobile clara.
 
-## Avoid
+## Evitar
 
-- landing page that looks like a generic course launch;
-- sales countdown pressure;
-- mystical stock imagery;
-- overlong paragraphs in the hero.
+- landing page com cara de lançamento de curso genérico;
+- pressão de contagem regressiva;
+- banco de imagem místico;
+- parágrafos longos demais no hero.

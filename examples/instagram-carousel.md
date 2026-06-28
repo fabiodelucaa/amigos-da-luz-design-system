@@ -1,24 +1,24 @@
-# Instagram Carousel Example Brief
+# Brief de carrossel Instagram
 
-## Goal
+## Objetivo
 
-Create a carousel that communicates a Spiritist-cultural idea with lightness and clarity.
+Criar um carrossel que comunique uma ideia espírita-cultural com leveza e clareza.
 
-## Structure
+## Estrutura
 
-1. Slide 1: strong title or hook.
-2. Slides 2-4: one idea per slide.
-3. Slide 5: reflective or humorous turn.
-4. Final slide: invitation, show info, or gentle CTA.
+1. Slide 1: título ou gancho forte.
+2. Slides 2-4: uma ideia por slide.
+3. Slide 5: virada reflexiva ou bem-humorada.
+4. Slide final: convite, informação do espetáculo ou CTA leve.
 
-## Design notes
+## Notas de design
 
-- Use large readable text.
-- Keep margins safe.
-- Prefer dark graphite background with gold accents for premium posts.
-- Use off-white backgrounds for longer educational posts.
-- Terracotta may highlight a human/emotional phrase.
+- Usar texto grande e legível.
+- Manter margens seguras.
+- Preferir fundo Graphite com acentos Gold para posts premium.
+- Usar fundo Off-white para posts educativos mais longos.
+- Terracotta pode destacar uma frase humana ou emocional.
 
-## Copy tone
+## Tom de texto
 
-Warm, Brazilian, intelligent, and accessible. Humor is welcome, but should not undermine the spiritual or cultural intent.
+Caloroso, brasileiro, inteligente e acessível. O humor é bem-vindo, mas não deve enfraquecer a intenção espiritual ou cultural.

@@ -1,34 +1,34 @@
 # Cards
 
-Cards should feel like cultural program blocks, stage panels, tickets, or editorial modules.
+Cards devem parecer blocos de programa cultural, painéis de palco, ingressos ou módulos editoriais.
 
-## Visual style
+## Estilo visual
 
-- Dark cards: Graphite Light `#2C2C2C` over Graphite `#202020`.
-- Light cards: Off-white `#F3F3F3` with Graphite text.
-- Use Gold `#A37F33` for small dividers, labels, borders, icons, or heading details.
-- Keep corners softly rounded, not bubbly.
-- Use generous padding.
+- Cards escuros: Graphite Light `#2C2C2C` sobre Graphite `#202020`.
+- Cards claros: Off-white `#F3F3F3` com texto Graphite.
+- Usar Gold `#A37F33` em pequenos divisores, etiquetas, bordas, ícones ou detalhes de título.
+- Cantos suavemente arredondados, sem aparência infantil.
+- Padding generoso.
 
-## Common card types
+## Tipos comuns
 
-### Show card
+### Card de espetáculo
 
-Content hierarchy:
+Hierarquia:
 
-1. show title;
-2. short cultural/emotional hook;
-3. date, time, venue;
+1. título do espetáculo;
+2. gancho cultural ou emocional curto;
+3. data, horário e local;
 4. CTA.
 
-### Institutional card
+### Card institucional
 
-Use for values, mission, group description, history, or cultural positioning.
+Usar para valores, missão, descrição do grupo, história ou posicionamento cultural.
 
-### Partner card
+### Card de parceria
 
-Use for Spiritist centers and cultural partners. Lead with cultural invitation and community value before operational mechanics.
+Usar para casas espíritas e parceiros culturais. Começar pelo convite cultural e pelo valor comunitário antes das mecânicas operacionais.
 
-### Testimonial card
+### Card de depoimento
 
-Use large Mokoko pull quote or Roboto body with a gold quotation mark/detail. Keep names readable and discreet.
+Usar citação em Mokoko grande ou corpo em Roboto com detalhe dourado. Manter nomes legíveis e discretos.

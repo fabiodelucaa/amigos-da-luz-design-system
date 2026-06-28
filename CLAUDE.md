@@ -1,27 +1,27 @@
-# Claude Design Instructions
+# Instruções para Claude Design
 
-Use this repository as the source of truth for the Amigos da Luz visual identity.
+Use este repositório como fonte de verdade para a identidade visual da Amigos da Luz.
 
-## Important positioning
+## Posicionamento essencial
 
-Amigos da Luz is an artistic-cultural theater group with Spiritist inspiration. Do not design it as a church, a generic spiritual influencer brand, a charity NGO, or a retail ticket campaign.
+Amigos da Luz é um grupo artístico-cultural teatral com inspiração espírita. Não desenhe como igreja, marca genérica de espiritualidade, ONG assistencialista ou campanha agressiva de venda de ingressos.
 
-The design should feel like contemporary theater under warm stage light: premium, human, reflective, humorous, and welcoming.
+O design deve parecer teatro contemporâneo sob luz quente de palco: premium, humano, reflexivo, bem-humorado e acolhedor.
 
-## Preferred visual direction
+## Direção visual preferida
 
-- dark graphite backgrounds;
-- warm gold accents;
-- editorial serif headings;
-- readable sans-serif body copy;
-- theatrical lighting and depth;
-- generous spacing;
-- clear hierarchy;
-- cultural institution quality.
+- fundos em grafite escuro;
+- acentos dourados quentes;
+- títulos editoriais com serifa;
+- texto de corpo sem serifa e muito legível;
+- iluminação e profundidade de palco;
+- espaçamento generoso;
+- hierarquia clara;
+- qualidade de instituição cultural.
 
-## Required palette
+## Paleta obrigatória
 
-Use these exact color anchors:
+Use estes pontos fixos de cor:
 
 - Gold: `#A37F33`
 - Graphite: `#202020`
@@ -30,32 +30,32 @@ Use these exact color anchors:
 - Off-white: `#F3F3F3`
 - Gray: `#909090`
 
-## Required typography
+## Tipografia obrigatória
 
-- Display: Mokoko, with Georgia fallback.
-- Body/UI: Roboto, with Arial/Helvetica fallback.
+- Display: Mokoko, com fallback Georgia.
+- Corpo/UI: Roboto, com fallback Arial/Helvetica.
 
-## Avoid
+## Evitar
 
-- generic religious symbols;
-- praying hands, doves, clouds, artificial heaven, mystical portals;
-- low-quality spiritual stock imagery;
-- childish comedy graphics;
-- aggressive sales language;
-- overdecorated layouts;
-- unreadable low-contrast text;
-- too many fonts or colors.
+- símbolos religiosos genéricos;
+- mãos em oração, pombas, nuvens, céu artificial, portais místicos;
+- banco de imagem espiritual genérico;
+- humor infantilizado;
+- linguagem comercial agressiva;
+- layouts excessivamente decorados;
+- texto com baixo contraste;
+- muitas fontes ou cores fora da paleta.
 
-## Accessibility priorities
+## Prioridades de acessibilidade
 
-The core audience includes many people aged 50+. Keep font sizes generous, contrast strong, and layouts readable on mobile. Use dramatic design, but never at the cost of clarity.
+O público central inclui muitas pessoas 50+. Mantenha tamanhos de fonte confortáveis, contraste forte e layouts legíveis no celular. O design pode ser dramático, mas nunca às custas da clareza.
 
-## Content hierarchy
+## Hierarquia de conteúdo
 
-For show and partnership materials, lead with:
+Para materiais de espetáculo e parceria, priorize:
 
-1. artistic-cultural value;
-2. humor as a bridge to reflection;
-3. Spiritist welcome and dissemination with lightness;
-4. practical details;
-5. commercial or ticket mechanics only after the cultural invitation is clear.
+1. valor artístico-cultural;
+2. humor como ponte de reflexão;
+3. acolhimento e divulgação espírita com leveza;
+4. informações práticas;
+5. mecânicas comerciais ou de ingresso apenas depois do convite cultural estar claro.

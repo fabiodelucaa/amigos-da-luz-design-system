@@ -1,56 +1,60 @@
-# Amigos da Luz Design System
+# Design System Amigos da Luz
 
-Design system and brand guidelines for **Amigos da Luz**, a Brazilian artistic-cultural group that combines theater, humor, and Spiritism across live performances, digital content, institutional communication, and cultural partnerships.
+Design system e diretrizes de marca para **Amigos da Luz**, grupo artístico-cultural brasileiro que une teatro, humor e Espiritismo em espetáculos, conteúdo digital, comunicação institucional e parcerias culturais.
 
-This repository is intentionally small and documentation-first. It exists to help designers, developers, and AI design tools create consistent materials for the brand without turning the project into a component-library rabbit hole.
+Este repositório é público, pequeno e orientado por documentação. Ele existe para ajudar designers, desenvolvedores e ferramentas de design com IA a criarem materiais consistentes para a marca sem transformar o projeto em uma biblioteca de componentes antes da hora.
 
-## Brand in one sentence
+## Marca em uma frase
 
-A contemporary Spiritist theater group under stage light: warm, witty, welcoming, reflective, and professionally crafted.
+Um grupo de teatro espírita contemporâneo sob luz de palco: acolhedor, espirituoso, reflexivo, humano e profissional.
 
-## What this repository contains
+## Idioma
 
-- `DESIGN.md` — canonical brand and design-system direction.
-- `CLAUDE.md` — instructions for Claude Design and AI-assisted design work.
-- `tokens/` — colors, typography, spacing, and CSS custom properties.
-- `components/` — component guidance for common brand surfaces.
-- `examples/` — application briefs for pages, posts, posters, folders, and thumbnails.
-- `assets/` — placeholder folders for logos, approved references, and examples.
+O idioma canônico deste repositório é **português do Brasil**. Nomes de arquivos e pastas permanecem em inglês simples por compatibilidade com ferramentas de design, código e IA.
 
-## Primary use cases
+## O que este repositório contém
 
-The design system should support:
+- `DESIGN.md` — direção canônica de marca e design system.
+- `CLAUDE.md` — instruções para Claude Design e trabalho de design assistido por IA.
+- `tokens/` — cores, tipografia, espaçamentos e propriedades CSS customizadas.
+- `components/` — orientação de componentes e padrões recorrentes.
+- `examples/` — briefs de aplicação para páginas, posts, cartazes, folders e thumbnails.
+- `assets/` — pastas preparadas para logos, referências aprovadas e exemplos.
 
-- institutional website and landing pages;
-- show pages and ticket campaigns;
-- Instagram posts and carousels;
-- YouTube thumbnails;
-- posters and printed folders;
-- presentation decks;
-- institutional proposals;
-- materials for Spiritist centers and cultural partners.
+## Usos principais
 
-## Core direction
+O design system deve apoiar:
 
-The brand should feel:
+- site institucional e landing pages;
+- páginas de espetáculos e campanhas de ingressos;
+- posts e carrosséis de Instagram;
+- thumbnails de YouTube;
+- cartazes e folders impressos;
+- apresentações;
+- propostas institucionais;
+- materiais para casas espíritas e parceiros culturais.
 
-- theatrical, premium, and contemporary;
-- spiritual with sobriety, not cliché;
-- welcoming and human;
-- humorous without becoming childish;
-- cultural before commercial;
-- accessible to an older Spiritist audience while still feeling current.
+## Direção central
 
-Avoid generic religious visuals, retail-style urgency, mystical stock imagery, and overdecorated layouts.
+A marca deve parecer:
 
-## Design tokens
+- teatral, premium e contemporânea;
+- espiritualizada com sobriedade, sem clichê;
+- acolhedora e humana;
+- bem-humorada sem ficar infantil;
+- cultural antes de comercial;
+- acessível para um público espírita mais maduro sem deixar de ser atual.
 
-Color and typography tokens are available in:
+Evitar visual religioso genérico, urgência de varejo, imagens místicas de banco de imagem e layouts excessivamente decorados.
+
+## Tokens de design
+
+Cores e tipografia estão em:
 
 - [`tokens/colors.json`](tokens/colors.json)
 - [`tokens/typography.json`](tokens/typography.json)
 - [`tokens/tokens.css`](tokens/tokens.css)
 
-## Licensing and brand usage
+## Licença e uso de marca
 
-This repository is public for collaboration and AI design-system setup. Brand names, logos, theatrical materials, and visual identity assets remain the property of Amigos da Luz and their respective rights holders unless a specific file states otherwise.
+Este repositório é público para colaboração e configuração de design system com IA. Nome, logos, materiais teatrais e ativos de identidade visual da Amigos da Luz continuam pertencendo à Amigos da Luz e aos respectivos detentores de direitos, salvo quando um arquivo indicar outra coisa.
