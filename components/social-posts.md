@@ -23,9 +23,9 @@ Padrão recomendado:
 ## Thumbnails de YouTube
 
 - Priorizar rosto, expressão e contraste.
-- Usar um gancho curto.
-- Evitar texto denso.
-- Usar Gold como acento de marca, não como truque de fundo inteiro.
+- Texto grande e legível.
+- Margens seguras ao redor de todo texto.
+- Não cobrir rostos, bocas, gestos ou ações importantes.
 - Manter a comédia expressiva sem sensacionalismo.
 
 ## Legendas
