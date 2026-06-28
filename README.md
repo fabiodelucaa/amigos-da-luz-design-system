@@ -19,7 +19,7 @@ O idioma canônico deste repositório é **português do Brasil**. Nomes de arqu
 - `tokens/` — cores, tipografia, espaçamentos e propriedades CSS customizadas.
 - `components/` — orientação de componentes e padrões recorrentes.
 - `examples/` — briefs de aplicação para páginas, posts, cartazes, folders e thumbnails.
-- `assets/` — pastas preparadas para logos, referências aprovadas e exemplos.
+- `assets/` — fontes, logos, referências aprovadas e exemplos.
 
 ## Usos principais
 
@@ -54,6 +54,15 @@ Cores e tipografia estão em:
 - [`tokens/colors.json`](tokens/colors.json)
 - [`tokens/typography.json`](tokens/typography.json)
 - [`tokens/tokens.css`](tokens/tokens.css)
+
+## Fontes
+
+Os pacotes de fonte fornecidos para a marca estão em [`assets/fonts/`](assets/fonts/):
+
+- `mokoko.zip` — família Mokoko, fonte de display da marca.
+- `roboto.zip` — família Roboto, fonte de corpo, UI e informações práticas.
+
+Antes de redistribuir ou publicar em produção, confirme as licenças aplicáveis. O pacote Roboto inclui `NOTICE.txt`; o pacote Mokoko recebido não inclui arquivo de licença separado.
 
 ## Licença e uso de marca
 

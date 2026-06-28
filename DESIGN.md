@@ -83,6 +83,8 @@ Usar para:
 
 Fallback: Georgia ou outra serifa elegante.
 
+Arquivo de referência: [`assets/fonts/mokoko.zip`](assets/fonts/mokoko.zip). O pacote recebido não inclui arquivo de licença separado; confirmar licença antes de redistribuição ampla ou uso final em produção.
+
 ### Fonte secundária e de corpo
 
 **Roboto**
@@ -98,6 +100,8 @@ Usar para:
 - formulários e tabelas.
 
 Fallback: Arial, Helvetica, sans-serif.
+
+Arquivo de referência: [`assets/fonts/roboto.zip`](assets/fonts/roboto.zip). O pacote inclui `NOTICE.txt`.
 
 ### Tom tipográfico
 

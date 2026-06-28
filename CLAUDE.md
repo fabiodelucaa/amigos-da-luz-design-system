@@ -35,6 +35,8 @@ Use estes pontos fixos de cor:
 - Display: Mokoko, com fallback Georgia.
 - Corpo/UI: Roboto, com fallback Arial/Helvetica.
 
+Os pacotes de fonte estão em `assets/fonts/mokoko.zip` e `assets/fonts/roboto.zip`. Use-os como referência de família tipográfica; para implementação web, prefira extrair apenas os formatos necessários, especialmente `woff2`, no projeto consumidor.
+
 ## Evitar
 
 - símbolos religiosos genéricos;
